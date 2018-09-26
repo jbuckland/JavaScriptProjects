@@ -12,6 +12,7 @@ function setup() {
 
     let helloText = "Hello " + name + ". Today is " + day + ". Your favorite color is " + favoriteColor;
 
+    console.log(helloText);
 
 }
 

@@ -1,0 +1,17 @@
+Variables:
+    -Variable declaration and assignment.
+        *create a variable called 'name' set it to your name.
+        *display that variable to the screen
+    - types
+        - strings
+            - string concatenation;
+            * create a last name variable and set it to your last name
+            * display your first and last name
+            * create a favorite food variable
+            * display "Hi my name is [name here] and my favorite food it [food here]";
+        - numbers
+            - math on number variables
+            * create a length and width variables, and store some values in it
+            * calculate the area and perimeter of the rectangle
+            
+

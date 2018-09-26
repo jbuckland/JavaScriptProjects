@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\John's Stuff\P5Stuff" t="IncludeFlat">
+    <e p="C:\John's Stuff\GitProjects\JavaScriptProjects\P5Stuff" t="IncludeFlat">
       <e p="tools\p5.js" t="IncludeRecursive" />
     </e>
-    <e p="C:\Users\jbuck\.Rider2018.2\config\consoles\ide" t="IncludeRecursive" />
-    <e p="C:\Users\jbuck\.Rider2018.2\config\extensions" t="IncludeRecursive" />
     <e p="C:\Users\jbuck\.Rider2018.2\config\scratches" t="IncludeRecursive" />
     <e p="C:\Users\jbuck\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\jbuck\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_P5Stuff.-398372464.00" t="ExcludeRecursive" />
-    <e p="C:\Users\jbuck\Documents\gitignore_global.txt" t="IncludeRecursive" />
+    <e p="C:\Users\jbuck\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_P5Stuff.364513929.00" t="ExcludeRecursive" />
   </component>
 </project>

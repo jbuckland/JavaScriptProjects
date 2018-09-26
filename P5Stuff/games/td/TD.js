@@ -17,7 +17,7 @@ let game;
 
 function preload() {
     game = {};
-    game.backgroundPath = loadImage("games/TD Path.png");
+    game.backgroundPath = loadImage("games/td/TD Path.png");
     game.wayPoints = [];
     game.turretGroup = new Group();
     game.buildPointGroup = new Group();
